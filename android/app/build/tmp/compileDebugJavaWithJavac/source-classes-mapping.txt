@@ -1,0 +1,14 @@
+com/virtualemployeestopwatch/MainApplication.java
+ com.virtualemployeestopwatch.MainApplication
+ com.virtualemployeestopwatch.MainApplication$1
+com/virtualemployeestopwatch/MainActivity.java
+ com.virtualemployeestopwatch.MainActivity
+com/virtualemployeestopwatch/BuildConfig.java
+ com.virtualemployeestopwatch.BuildConfig
+com/virtualemployeestopwatch/ReactNativeFlipper.java
+ com.virtualemployeestopwatch.ReactNativeFlipper
+ com.virtualemployeestopwatch.ReactNativeFlipper$1
+ com.virtualemployeestopwatch.ReactNativeFlipper$2
+ com.virtualemployeestopwatch.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
